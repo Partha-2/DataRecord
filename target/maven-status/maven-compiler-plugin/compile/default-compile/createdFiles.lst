@@ -1,0 +1,6 @@
+com\example\DataRecord\Service\DataService.class
+com\example\DataRecord\DataRecordApplication.class
+com\example\DataRecord\Repo\DataRepository.class
+com\example\DataRecord\Dto\ServiceDto.class
+com\example\DataRecord\Controller\DataController.class
+com\example\DataRecord\Entity\Data.class
